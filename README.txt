@@ -9,4 +9,4 @@ For this project, VueJS was used on the frontend along with the Spring Boot on t
 
 How to Run:
 
-After backend project is run, 'todofrontend' project can be cloned and run as 'npm run serve'. Then the project can be used successfully.
+After backend project (todoapp_2) is run with the command 'docker-compose up --build' using Docker, 'todofrontend' project can be cloned and run as 'npm run serve'. Then the project can be used successfully from the 'http://localhost:8081/' address.

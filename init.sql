@@ -1,0 +1,3 @@
+CREATE USER duhacelik WITH ENCRYPTED PASSWORD 'password';
+CREATE DATABASE "todoapp";
+GRANT ALL PRIVILIGES ON DATABASE "todoapp" TO duhacelik;
